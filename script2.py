@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 import getpass
 
-student_name = "Abhradwip Lala"
+student_name = "Aritra Chowdhury"
 software = "Python"
 
 print("========================================")
