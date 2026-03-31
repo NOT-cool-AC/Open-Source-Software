@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Abhradwip Lala | Course: Open Source Software
+# Author: Aritra Chowdhury | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Abhradwip Lala"
+STUDENT_NAME="Aritra Chowdhury"
 SOFTWARE_CHOICE="Python"
 
 # --- System info ---
