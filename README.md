@@ -2,8 +2,8 @@
 
 ## Student Details
 
-* Name: Abhradwip Lala
-* Roll Number: 24BAI10657
+* Name: Aritra Chowdhury
+* Registration Number: 24BAI10023
 
 ## Chosen Software
 
